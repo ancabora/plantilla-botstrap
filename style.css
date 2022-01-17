@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     src: url('cuenca.mp4');
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+        
+    }
+}
+
+video{
+    
+    
+    background-size: cover;
+    box-shadow: 15px 15px 15px 15px;
+    border-radius: 500px;
+    width: 145%;
+    margin:auto;
+src: url('cuenca.mp4');
+    
+}
+
+.seminegro {
+    background-color:blue;
+    
+}
+header{
+    width: 50%;
+   margin-left: auto;
+}
+main{
+    width: 50%;
+    margin-left: auto;
+}
+body{
+    width: 100%;
+   
+}
+nav{
+    margin: right;
+}
+
+
+
